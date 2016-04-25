@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "#' Site data for Stream montering sites in Michigan Indian,\n#' NewYork, illiois Wisconsin\n#'\n#' Colected from United States Geological Survey\n#'\n#' @docType data\n#'\n#' @usage  data(site_data)\n#'\n#'@keywords datasets\n#'\n#' @format A data frame with 1308 rows and 13 variables:\n#' \\describe{\n#'   \\item{agency_cd}{Agency that collected the data}\n#'   \\item{site_no}{Nine digit site identification code}\n#'   \\item{station_nm}{site name}\n#'   \\item{lat_va}{Latitude of site}\n#'   \\item{long_val}{longitude of site}\n#'   \\item{state_cd}{FIPS state code}\n#'   \\item{stage_data}{If A, this site collets stream stage data}\n#'   \\item{water_quality}{If A, this site collects water quality data}\n#'   ...\n#' }\n#' @export\n\n\"site_data\"\n",
+    "created" : 1461613319063.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3860368180",
+    "id" : "C3F039D7",
+    "lastKnownWriteTime" : 1461614603,
+    "last_content_update" : 1461614603175,
+    "path" : "~/Hacks/FISH/CarpeDiem/R/site_data.R",
+    "project_path" : "R/site_data.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

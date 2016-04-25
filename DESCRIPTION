@@ -1,0 +1,11 @@
+Package: CarpeDiem
+Type: Package
+Title: Used to collect and model data relivent to predicting the spawing of
+    Asian Carp
+Version: 0.1.0
+Author: rectheworld
+Maintainer: rectheworld
+Description: More about what it does (maybe more than one line)
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1

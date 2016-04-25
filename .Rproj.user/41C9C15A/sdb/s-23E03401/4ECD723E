@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: CarpeDiem\nType: Package\nTitle: Used to collect and model data relivent to predicting the spawing of\n    Asian Carp\nVersion: 0.1.0\nAuthor: rectheworld\nMaintainer: rectheworld\nDescription: More about what it does (maybe more than one line)\nLicense: MIT\nLazyData: TRUE\nRoxygenNote: 5.0.1\n",
+    "created" : 1461614179703.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "270473926",
+    "id" : "4ECD723E",
+    "lastKnownWriteTime" : 1461612849,
+    "last_content_update" : 1461612849,
+    "path" : "~/Hacks/FISH/CarpeDiem/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}
